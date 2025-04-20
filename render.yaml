@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: a-coeur-ouvert
-    env: php
-    plan: free
-    rootDir: .
-    buildCommand: ""
-    startCommand: ""
